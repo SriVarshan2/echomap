@@ -24,6 +24,8 @@ EchoMap uses AI to parse dialogue between two speakers and visualize the emotion
 - **Empathy Moments**: Instances of validation and active listening.
 - **Balance Scores**: Visualizing whether the dialogue was collaborative or one-sided.
 
+### 🔗 [Live Demo: echomap-8jgr.vercel.app](https://echomap-8jgr.vercel.app)
+
 ---
 
 ## ✨ Key Features
